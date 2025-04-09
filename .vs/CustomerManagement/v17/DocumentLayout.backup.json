@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BlueByteProjects\\CustomerManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1328B9F-0069-4B55-AED0-E3D3E3083766}|CustomerManagement\\CustomerManagement.csproj|f:\\bluebyteprojects\\customermanagement\\customermanagement\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1328B9F-0069-4B55-AED0-E3D3E3083766}|CustomerManagement\\CustomerManagement.csproj|solutionrelative:customermanagement\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMSController.cs",
+              "DocumentMoniker": "F:\\BlueByteProjects\\CustomerManagement\\CustomerManagement\\Controllers\\CMSController.cs",
+              "RelativeDocumentMoniker": "CustomerManagement\\Controllers\\CMSController.cs",
+              "ToolTip": "F:\\BlueByteProjects\\CustomerManagement\\CustomerManagement\\Controllers\\CMSController.cs",
+              "RelativeToolTip": "CustomerManagement\\Controllers\\CMSController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:02:34.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
